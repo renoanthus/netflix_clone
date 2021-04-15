@@ -1,0 +1,25 @@
+{
+  "name": "netflix_clone",
+  "version": "1.0.0",
+  "description": "Netflic Clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renoanthus/netflix_clone.git"
+  },
+  "author": "Reno Anthus",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renoanthus/netflix_clone/issues"
+  },
+  "homepage": "https://github.com/renoanthus/netflix_clone#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
